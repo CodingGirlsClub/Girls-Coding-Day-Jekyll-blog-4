@@ -441,3 +441,8 @@ pre code {
 .post-content img {
     width: 80%
 }
+
+iframe {
+    width: 100%;
+    height: 600px;
+}
